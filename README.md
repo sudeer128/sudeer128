@@ -1,11 +1,8 @@
 # <img src="https://github.com/blackcater/blackcater/raw/main/images/hi.gif" width="30px"> Hi, I'm Sudheendra Sai! 
 
-# <img src="https://github.com/blackcater/blackcater/raw/main/images/hi.gif" width="30px"> Hi, I'm Sudheendra Sai! 
-
 <p align="left">
   <img src="https://komarev.com/ghvc/?username=sudeer128&repo=sudeer128&label=Profile%20Views&color=0e76a8&style=flat-square" alt="sudeer128 views counter" />
 </p>
-
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Data+Analytics+Professional;Aspiring+Data+Scientist;Turning+Data+into+Insights" alt="Typing SVG" />
