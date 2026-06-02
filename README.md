@@ -1,7 +1,7 @@
 # <img src="https://github.com/blackcater/blackcater/raw/main/images/hi.gif" width="30px"> Hi, I'm Sudheendra Sai! 
 
 <p align="left">
-  <img src="https://komarev.com/ghvc/?username=sudeer128&repo=sudeer128&label=Profile%20Views&color=0e76a8&style=flat-square" alt="sudeer128 views counter" />
+  <img src="https://komarev.com/ghvc/?username=sudeer128&color=blue" alt="sudeer128" />
 </p>
 <p align="left">
   <a href="https://git.io/typing-svg">
